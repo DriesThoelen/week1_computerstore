@@ -1,6 +1,16 @@
 package be.pxl.computerstore.data;
 
 import be.pxl.computerstore.util.Dimension;
+import be.pxl.computerstore.hardware.ComputerCase;
+import be.pxl.computerstore.hardware.HardDisk;
+import be.pxl.computerstore.hardware.Processor;
+import be.pxl.computerstore.hardware.Peripheral;
+import be.pxl.computerstore.hardware.GamingController;
+import be.pxl.computerstore.hardware.Keyboard;
+import be.pxl.computerstore.hardware.KeyboardLayout;
+import be.pxl.computerstore.hardware.Monitor;
+import be.pxl.computerstore.hardware.Mouse;
+import be.pxl.computerstore.hardware.WebCam;
 
 public class Warehouse {
 

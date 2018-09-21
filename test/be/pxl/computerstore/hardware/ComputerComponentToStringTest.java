@@ -1,5 +1,7 @@
 package be.pxl.computerstore.hardware;
 
+import be.pxl.computerstore.hardware.builder.ProcessorBuilder;
+import be.pxl.computerstore.hardware.builder.MouseBuilder;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

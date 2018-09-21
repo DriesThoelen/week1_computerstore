@@ -15,6 +15,13 @@ import java.net.URL;
 import java.util.Arrays;
 import java.util.ResourceBundle;
 
+import be.pxl.computerstore.hardware.ComputerCase;
+import be.pxl.computerstore.hardware.ComputerComponent;
+import be.pxl.computerstore.hardware.ComputerSystem;
+import be.pxl.computerstore.hardware.HardDisk;
+import be.pxl.computerstore.hardware.Processor;
+import be.pxl.computerstore.hardware.Peripheral;
+
 public class ComputerConfiguratorController implements Initializable {
     @FXML
     ComboBox<ComputerComponentTypes> computerComponentTypes;
